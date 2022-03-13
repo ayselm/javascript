@@ -1,0 +1,10 @@
+@import "style.css";
+
+@font-face {
+  font-family: montserrat;
+  src: url("../fonts/montserrat.ttf") format("OpenType");
+}
+@font-face {
+  font-family: playfair;
+  src: url("../fonts/playfair.ttf") format("OpenType");
+}
